@@ -1,1 +1,1 @@
-Sitemap: https://cosinelab-iitism.github.io/cosinelab-iitism/sitemap.xml
+Sitemap: https://cosinelab-iitism.github.io/cosinelab.github.io/sitemap.xml
